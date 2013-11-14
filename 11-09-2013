@@ -1,0 +1,15 @@
+Console Log - Prints text to the console. Useful for debugging.
+
+Invocations-invoking - An invocation expression consists of a function expression that evaluates to a function object followed by an open parenthesis, 
+a comma-separated list of zero or more argument expressions, and a close parenthesis. 
+
+Grunt - Grunt exposes all of its methods and properties on the grunt object that gets passed 
+into the module.exports function exported in your Gruntfile, Grunt plugin or in a tasks file.
+
+Refactoring - Code refactoring is a "disciplined technique for restructuring an existing body of code, 
+altering its internal structure without changing its external behavior.
+
+Assert - The assert keyword, as the name implies, makes an assertion about the code. It is used to specify something that holds true all the time.
+The assert keyword is followed by a boolean value (true or false), or an expression, to be evaluated at runtime, that returns a boolean.
+
+Functions - A function is a block of code that will be executed when "someone" calls it.
